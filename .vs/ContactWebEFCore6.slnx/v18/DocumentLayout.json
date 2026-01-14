@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E31BBE55-0E5D-072D-484D-67D2DA5B898F}|ContactWebEFCore6\\ContactWebEFCore6.csproj|c:\\aspnetcorefolder\\project\\contactwebefcore6\\contactwebefcore6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31BBE55-0E5D-072D-484D-67D2DA5B898F}|ContactWebEFCore6\\ContactWebEFCore6.csproj|solutionrelative:contactwebefcore6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31BBE55-0E5D-072D-484D-67D2DA5B898F}|ContactWebEFCore6\\ContactWebEFCore6.csproj|c:\\aspnetcorefolder\\project\\contactwebefcore6\\contactwebefcore6\\contactwebefcore6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E31BBE55-0E5D-072D-484D-67D2DA5B898F}|ContactWebEFCore6\\ContactWebEFCore6.csproj|solutionrelative:contactwebefcore6\\contactwebefcore6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31BBE55-0E5D-072D-484D-67D2DA5B898F}|ContactWebEFCore6\\ContactWebEFCore6.csproj|c:\\aspnetcorefolder\\project\\contactwebefcore6\\contactwebefcore6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E31BBE55-0E5D-072D-484D-67D2DA5B898F}|ContactWebEFCore6\\ContactWebEFCore6.csproj|solutionrelative:contactwebefcore6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactWebEFCore6.csproj",
+              "DocumentMoniker": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebEFCore6\\ContactWebEFCore6.csproj",
+              "RelativeDocumentMoniker": "ContactWebEFCore6\\ContactWebEFCore6.csproj",
+              "ToolTip": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebEFCore6\\ContactWebEFCore6.csproj",
+              "RelativeToolTip": "ContactWebEFCore6\\ContactWebEFCore6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-12T16:38:52.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebEFCore6\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactWebEFCore6\\appsettings.json",
+              "ToolTip": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebEFCore6\\appsettings.json",
+              "RelativeToolTip": "ContactWebEFCore6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-12T06:53:45.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebEFCore6\\Program.cs",
+              "RelativeDocumentMoniker": "ContactWebEFCore6\\Program.cs",
+              "ToolTip": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebEFCore6\\Program.cs",
+              "RelativeToolTip": "ContactWebEFCore6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:26:23.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
