@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContactWebEFCore6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f973142a8d31ab45cdde2da97772094a8ccbc6e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1797d25a05844c04a2b8333cd505c39ed2b7a35")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContactWebEFCore6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContactWebEFCore6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
