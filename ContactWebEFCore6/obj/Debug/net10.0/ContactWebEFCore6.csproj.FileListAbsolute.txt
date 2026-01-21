@@ -298,3 +298,4 @@ C:\aspnetcorefolder\Project\ContactWebEFCore6\ContactWebEFCore6\obj\Debug\net10.
 C:\aspnetcorefolder\Project\ContactWebEFCore6\ContactWebEFCore6\obj\Debug\net10.0\ContactWebEFCore6.pdb
 C:\aspnetcorefolder\Project\ContactWebEFCore6\ContactWebEFCore6\obj\Debug\net10.0\ContactWebEFCore6.genruntimeconfig.cache
 C:\aspnetcorefolder\Project\ContactWebEFCore6\ContactWebEFCore6\obj\Debug\net10.0\ref\ContactWebEFCore6.dll
+C:\aspnetcorefolder\Project\ContactWebEFCore6\ContactWebEFCore6\obj\Debug\net10.0\ContactWebEFCore6.sourcelink.json

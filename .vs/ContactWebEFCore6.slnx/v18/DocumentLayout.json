@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E31BBE55-0E5D-072D-484D-67D2DA5B898F}|ContactWebEFCore6\\ContactWebEFCore6.csproj|c:\\aspnetcorefolder\\project\\contactwebefcore6\\contactwebefcore6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E31BBE55-0E5D-072D-484D-67D2DA5B898F}|ContactWebEFCore6\\ContactWebEFCore6.csproj|solutionrelative:contactwebefcore6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BE84EF3-2630-4ED8-9676-8ABC71FC9DF8}|ContactWebModels\\ContactWebModels.csproj|c:\\aspnetcorefolder\\project\\contactwebefcore6\\contactwebmodels\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE84EF3-2630-4ED8-9676-8ABC71FC9DF8}|ContactWebModels\\ContactWebModels.csproj|solutionrelative:contactwebmodels\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E31BBE55-0E5D-072D-484D-67D2DA5B898F}|ContactWebEFCore6\\ContactWebEFCore6.csproj|c:\\aspnetcorefolder\\project\\contactwebefcore6\\contactwebefcore6\\contactwebefcore6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E31BBE55-0E5D-072D-484D-67D2DA5B898F}|ContactWebEFCore6\\ContactWebEFCore6.csproj|solutionrelative:contactwebefcore6\\contactwebefcore6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE84EF3-2630-4ED8-9676-8ABC71FC9DF8}|ContactWebModels\\ContactWebModels.csproj|c:\\aspnetcorefolder\\project\\contactwebefcore6\\contactwebmodels\\contactmanagerconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE84EF3-2630-4ED8-9676-8ABC71FC9DF8}|ContactWebModels\\ContactWebModels.csproj|solutionrelative:contactwebmodels\\contactmanagerconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE84EF3-2630-4ED8-9676-8ABC71FC9DF8}|ContactWebModels\\ContactWebModels.csproj|c:\\aspnetcorefolder\\project\\contactwebefcore6\\contactwebmodels\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE84EF3-2630-4ED8-9676-8ABC71FC9DF8}|ContactWebModels\\ContactWebModels.csproj|solutionrelative:contactwebmodels\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31BBE55-0E5D-072D-484D-67D2DA5B898F}|ContactWebEFCore6\\ContactWebEFCore6.csproj|c:\\aspnetcorefolder\\project\\contactwebefcore6\\contactwebefcore6\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31BBE55-0E5D-072D-484D-67D2DA5B898F}|ContactWebEFCore6\\ContactWebEFCore6.csproj|solutionrelative:contactwebefcore6\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31BBE55-0E5D-072D-484D-67D2DA5B898F}|ContactWebEFCore6\\ContactWebEFCore6.csproj|c:\\aspnetcorefolder\\project\\contactwebefcore6\\contactwebefcore6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31BBE55-0E5D-072D-484D-67D2DA5B898F}|ContactWebEFCore6\\ContactWebEFCore6.csproj|solutionrelative:contactwebefcore6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E31BBE55-0E5D-072D-484D-67D2DA5B898F}|ContactWebEFCore6\\ContactWebEFCore6.csproj|c:\\aspnetcorefolder\\project\\contactwebefcore6\\contactwebefcore6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +50,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebModels\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactWebModels\\Contact.cs",
+              "ToolTip": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebModels\\Contact.cs",
+              "RelativeToolTip": "ContactWebModels\\Contact.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:30:01.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebEFCore6\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ContactWebEFCore6\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebEFCore6\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ContactWebEFCore6\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T14:56:26.92Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ContactWebEFCore6.csproj",
               "DocumentMoniker": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebEFCore6\\ContactWebEFCore6.csproj",
@@ -42,11 +83,38 @@
               "RelativeToolTip": "ContactWebEFCore6\\ContactWebEFCore6.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-12T16:38:52.17Z"
+              "WhenOpened": "2026-01-12T16:38:52.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ContactManagerConstants.cs",
+              "DocumentMoniker": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebModels\\ContactManagerConstants.cs",
+              "RelativeDocumentMoniker": "ContactWebModels\\ContactManagerConstants.cs",
+              "ToolTip": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebModels\\ContactManagerConstants.cs",
+              "RelativeToolTip": "ContactWebModels\\ContactManagerConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:20:55.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebModels\\State.cs",
+              "RelativeDocumentMoniker": "ContactWebModels\\State.cs",
+              "ToolTip": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebModels\\State.cs",
+              "RelativeToolTip": "ContactWebModels\\State.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:38:05.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebEFCore6\\appsettings.json",
               "RelativeDocumentMoniker": "ContactWebEFCore6\\appsettings.json",
@@ -58,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\aspnetcorefolder\\Project\\ContactWebEFCore6\\ContactWebEFCore6\\Program.cs",
               "RelativeDocumentMoniker": "ContactWebEFCore6\\Program.cs",
@@ -66,8 +134,7 @@
               "RelativeToolTip": "ContactWebEFCore6\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T06:26:23.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T06:26:23.969Z"
             }
           ]
         }
